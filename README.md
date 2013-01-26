@@ -1,2 +1,5 @@
-cakefiles
+Cakefiles
 =========
+
+exactly that.
+
